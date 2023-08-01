@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devang Langhanoja</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-- 🔭 My personal site [https://mrdebu5.netlify.app/](https://mrdebu5.netlify.app/)
-
+- 🔭 My personal site [https://devanglanghanoja.netlify.app/]
 - 👨‍💻 Currently Work @ Enprowess Techcnology , Ahmedabad, Gujarat, india.
 
 - 🤹 Best skill in **JavaScript, TypeScript, React-JS, Node-JS, Express-JS, MongoDB**
