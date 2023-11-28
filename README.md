@@ -2,13 +2,13 @@
 <h3 align="center">MERN Stack Developer</h3>
 
 - 🔭 My personal site [https://devanglanghanoja.netlify.app/]
-- 👨‍💻 Currently Work @ Enprowess Techcnology , Ahmedabad, Gujarat, india.
+- 👨‍💻 Currently working as MERN/Full Stack Developer in India.
 
 - 🤹 Best skill in **JavaScript, TypeScript, React-JS, Node-JS, Express-JS, MongoDB**
 
 - 📫 How to reach me **dclanghnoja@gmail.com**
 
-- ⚡ Goal **Everyone has a dream in his life, my dream is make my bucket list empty, I want to learn new things every day, Improve my skill in best way to help all people and ready to be accept any challenges in my filed.**
+- ⚡ Goal **Everyone has a dream in his life, my dream is to make my bucket list empty, I want to learn new things every day, Improve my skills in the best way to help all people, and ready to be accept any challenges in my field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
