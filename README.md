@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dclanghnoja@gmail.com**
 
-- ⚡ Goal **Everyone has a dream in his life, my dream is to make my bucket list empty, I want to learn new things every day, Improve my skills in the best way to help all people, and ready to be accept any challenges in my field.**
+- ⚡ Goal **Everyone has a dream in his life, my dream is to make my bucket list empty, I want to learn new things every day, Improve my skills in the best way to help all people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
